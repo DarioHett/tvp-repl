@@ -1,5 +1,7 @@
 ## tvp-repl
 
+![Demo](https://raw.githubusercontent.com/DarioHett/tvp-repl/master/demo.gif)
+
 This repository configures [t]mux in junction with [v]im and [p]ython for a 
 comfy REPL experience. Fixed plugins on the one hand and convoluted blog posts 
 on the other, I decided to upload my gist.  
